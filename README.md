@@ -5,7 +5,6 @@ Simple blink program written in C for ESP32-S3 Linux ABI, based on [linux xtensa
 ## Build Instructions
 
 ```
-source ./src/activate.sh
 make
 ```
 
